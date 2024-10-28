@@ -7,15 +7,15 @@ Architecture Diagram
 
 **Services Used**:
 
-The project uses the following AWS services:
--S3 for static website hosting
--CloudFront for content delivery and HTTPS
--Route 53 for DNS management
--DynamoDB for storing visitor count
--Lambda for backend processing
--API Gateway for creating a REST API
+- S3
+- AWS CloudFront
+- Certificate Manager
+- AWS Lambda
+- Dynamo DB
+- GitHub Actions
+- Terraform
 
-Features
+**Features**
 -Static website resume built with HTML and CSS
 -HTTPS security using CloudFront
 -Visitor counter using DynamoDB and Lambda
