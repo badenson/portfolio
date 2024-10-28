@@ -4,7 +4,9 @@ Project Overview
 This repository contains my implementation of the AWS Cloud Resume Challenge - [The Cloud Resume Challenge](https://cloudresumechallenge.dev/), a hands-on project designed to showcase cloud skills and DevOps practices using AWS services.
 Architecture
 Architecture Diagram
+
 **Services Used**:
+
 The project uses the following AWS services:
 S3 for static website hosting
 CloudFront for content delivery and HTTPS
