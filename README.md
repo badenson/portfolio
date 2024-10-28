@@ -7,7 +7,7 @@ Architecture Diagram
 
 ## Architecture
 
-![Architecture Diagram](/img/AWS-Architecture-Cloud-resume-challenge.png)
+![Architecture Diagram](/img/resume-cloud-challenge.png)
 
 
 **Services Used**:
