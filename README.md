@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Portfolio
 Project Overview
 This repository contains my implementation of the AWS Cloud Resume Challenge, a hands-on project designed to showcase cloud skills and DevOps practices using AWS services.
