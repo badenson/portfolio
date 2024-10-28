@@ -5,6 +5,11 @@ This repository contains my implementation of the AWS Cloud Resume Challenge - [
 Architecture
 Architecture Diagram
 
+## Architecture
+
+![Architecture Diagram](/img/AWS-Architecture-Cloud-resume-challenge.png)
+
+
 **Services Used**:
 
 - S3
@@ -16,8 +21,8 @@ Architecture Diagram
 - Terraform
 
 **Features**
--Static website resume built with HTML and CSS
--HTTPS security using CloudFront
--Visitor counter using DynamoDB and Lambda
--CI/CD pipeline for automated deployments
--Infrastructure as Code using AWS SAM/CloudFormation
+- Static website resume built with HTML, CSS and Javascript
+- HTTPS security using CloudFront
+- Visitor counter using DynamoDB and Lambda
+- CI/CD pipeline for automated deployments
+- Infrastructure as Code using AWS SAM/CloudFormation
