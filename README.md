@@ -1,10 +1,8 @@
 # Portfolio
 Portfolio
 Project Overview
-Cloud Resume Challenge - AWS
+#Cloud Resume Challenge - AWS
 Overview
-
-![image](https://github.com/user-attachments/assets/64376041-565d-4fc6-8c8e-092221647689)
 
 
 This repository contains my implementation of the Cloud Resume Challenge - AWS. The challenge is a hands-on project that demonstrates various AWS cloud skills by building a serverless resume website.
