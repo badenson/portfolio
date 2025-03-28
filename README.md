@@ -1,8 +1,34 @@
 # Portfolio
 Portfolio
 Project Overview
-This repository contains my implementation of the AWS Cloud Resume Challenge - [The Cloud Resume Challenge](https://cloudresumechallenge.dev/), a hands-on project designed to showcase cloud skills and DevOps practices using AWS services.
-Architecture
+Cloud Resume Challenge - AWS
+Overview
+This repository contains my implementation of the Cloud Resume Challenge - AWS. The challenge is a hands-on project that demonstrates various AWS cloud skills by building a serverless resume website.
+
+Project Components
+Frontend
+Hosting: Static website hosted on AWS S3
+
+DNS: Managed via AWS Route 53
+
+SSL: HTTPS enabled through AWS CloudFront
+
+Technologies: HTML, CSS, JavaScript
+
+Backend
+Visitor Counter:
+
+AWS Lambda function (Python)
+
+Data stored in DynamoDB
+
+Accessed via API Gateway
+
+Infrastructure as Code
+AWS Resources: Deployed using Terraform
+
+CI/CD Pipeline: GitHub Actions for automated deployment
+
 Architecture Diagram
 
 ## Architecture
